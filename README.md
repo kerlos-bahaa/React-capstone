@@ -81,7 +81,15 @@ I selected the REST Countries API, which provides numeric data about countries a
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [You can check the live demo here] ([live demo](https://countries-cf1d.onrender.com/))
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📺 Presentation <a name="presentation"></a>
+
+- [ScreenRec Presentation] ([Loom video](https://www.loom.com/share/422bcd0be23a4969a7e0c0c22cae23ff))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
