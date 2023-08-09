@@ -1,0 +1,135 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should test details page should test the snapshot of details page 1`] = `
+<div>
+  <div
+    className="details"
+  >
+    <div
+      className="dtls"
+    >
+      <div
+        className="map"
+      >
+        <h3
+          className="flag-name"
+        >
+          JORDAN
+          <img
+            alt="Hashemite Kingdom of Jordan"
+            src="https://flagcdn.com/w320/jo.png"
+          />
+        </h3>
+      </div>
+      <div>
+        <ul
+          className="ul"
+        >
+          <li
+            className="crt-details li"
+          >
+            COUNTRY DETAILS
+          </li>
+          <li
+            className="liste li"
+          >
+            <p>
+              CAPITAL 
+            </p>
+             
+            <p>
+              Amman
+               
+              <svg
+                className="arrow"
+                fill="currentColor"
+                height="1.2em"
+                viewBox="0 0 16 16"
+                width="1.2em"
+              >
+                <path
+                  d="M1 8a7 7 0 1014 0A7 7 0 001 8zm15 0A8 8 0 110 8a8 8 0 0116 0zM4.5 7.5a.5.5 0 000 1h5.793l-2.147 2.146a.5.5 0 00.708.708l3-3a.5.5 0 000-.708l-3-3a.5.5 0 10-.708.708L10.293 7.5H4.5z"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </p>
+          </li>
+          <li
+            className="pair-red liste li"
+          >
+            <p>
+              AREA 
+            </p>
+            <p>
+               
+              89342
+               
+              km2
+               
+              <svg
+                className="arrow"
+                fill="currentColor"
+                height="1.2em"
+                viewBox="0 0 16 16"
+                width="1.2em"
+              >
+                <path
+                  d="M1 8a7 7 0 1014 0A7 7 0 001 8zm15 0A8 8 0 110 8a8 8 0 0116 0zM4.5 7.5a.5.5 0 000 1h5.793l-2.147 2.146a.5.5 0 00.708.708l3-3a.5.5 0 000-.708l-3-3a.5.5 0 10-.708.708L10.293 7.5H4.5z"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </p>
+          </li>
+          <li
+            className="liste li"
+          >
+            <p>
+              POPULATION 
+            </p>
+            <p>
+              10203140
+               
+              <svg
+                className="arrow"
+                fill="currentColor"
+                height="1.2em"
+                viewBox="0 0 16 16"
+                width="1.2em"
+              >
+                <path
+                  d="M1 8a7 7 0 1014 0A7 7 0 001 8zm15 0A8 8 0 110 8a8 8 0 0116 0zM4.5 7.5a.5.5 0 000 1h5.793l-2.147 2.146a.5.5 0 00.708.708l3-3a.5.5 0 000-.708l-3-3a.5.5 0 10-.708.708L10.293 7.5H4.5z"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </p>
+          </li>
+          <li
+            className="pair-red liste li"
+          >
+            <p>
+              CONTINENT
+            </p>
+            <p>
+               
+              Asia
+               
+              <svg
+                className="arrow"
+                fill="currentColor"
+                height="1.2em"
+                viewBox="0 0 16 16"
+                width="1.2em"
+              >
+                <path
+                  d="M1 8a7 7 0 1014 0A7 7 0 001 8zm15 0A8 8 0 110 8a8 8 0 0116 0zM4.5 7.5a.5.5 0 000 1h5.793l-2.147 2.146a.5.5 0 00.708.708l3-3a.5.5 0 000-.708l-3-3a.5.5 0 10-.708.708L10.293 7.5H4.5z"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </p>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+`;

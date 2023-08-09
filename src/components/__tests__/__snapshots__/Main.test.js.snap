@@ -1,0 +1,362 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should test MyProfile should test the snapshot of main page 1`] = `
+<div
+  className="home"
+>
+  <ul
+    className="countries"
+  >
+    <li>
+      <a
+        className="country"
+        href="/details"
+        onClick={[Function]}
+      >
+        <div
+          className="flag-items"
+        >
+          <img
+            alt="Hashemite Kingdom of Jordan"
+            className="flag"
+            src="https://flagcdn.com/w320/jo.png"
+          />
+          <svg
+            className="arrow"
+            fill="currentColor"
+            height="1.2em"
+            viewBox="0 0 16 16"
+            width="1.2em"
+          >
+            <path
+              d="M1 8a7 7 0 1014 0A7 7 0 001 8zm15 0A8 8 0 110 8a8 8 0 0116 0zM4.5 7.5a.5.5 0 000 1h5.793l-2.147 2.146a.5.5 0 00.708.708l3-3a.5.5 0 000-.708l-3-3a.5.5 0 10-.708.708L10.293 7.5H4.5z"
+              fillRule="evenodd"
+            />
+          </svg>
+        </div>
+        <div
+          className="linke-div"
+        >
+          <p
+            className="crt"
+          >
+            JORDAN
+          </p>
+          <p
+            className="crt-sub"
+          >
+            AREA :
+             89342
+          </p>
+          <p
+            className="crt-sub"
+          >
+            POPULATION :
+             10203140
+          </p>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a
+        className="country  pair-red"
+        href="/details"
+        onClick={[Function]}
+      >
+        <div
+          className="flag-items"
+        >
+          <img
+            alt="Commonwealth of the Northern Mariana Islands"
+            className="flag"
+            src="https://flagcdn.com/w320/mp.png"
+          />
+          <svg
+            className="arrow"
+            fill="currentColor"
+            height="1.2em"
+            viewBox="0 0 16 16"
+            width="1.2em"
+          >
+            <path
+              d="M1 8a7 7 0 1014 0A7 7 0 001 8zm15 0A8 8 0 110 8a8 8 0 0116 0zM4.5 7.5a.5.5 0 000 1h5.793l-2.147 2.146a.5.5 0 00.708.708l3-3a.5.5 0 000-.708l-3-3a.5.5 0 10-.708.708L10.293 7.5H4.5z"
+              fillRule="evenodd"
+            />
+          </svg>
+        </div>
+        <div
+          className="linke-div"
+        >
+          <p
+            className="crt"
+          >
+            NORTHERN MARIANA ISLANDS
+          </p>
+          <p
+            className="crt-sub"
+          >
+            AREA :
+             464
+          </p>
+          <p
+            className="crt-sub"
+          >
+            POPULATION :
+             57557
+          </p>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a
+        className="country"
+        href="/details"
+        onClick={[Function]}
+      >
+        <div
+          className="flag-items"
+        >
+          <img
+            alt="Republic of Serbia"
+            className="flag"
+            src="https://flagcdn.com/w320/rs.png"
+          />
+          <svg
+            className="arrow"
+            fill="currentColor"
+            height="1.2em"
+            viewBox="0 0 16 16"
+            width="1.2em"
+          >
+            <path
+              d="M1 8a7 7 0 1014 0A7 7 0 001 8zm15 0A8 8 0 110 8a8 8 0 0116 0zM4.5 7.5a.5.5 0 000 1h5.793l-2.147 2.146a.5.5 0 00.708.708l3-3a.5.5 0 000-.708l-3-3a.5.5 0 10-.708.708L10.293 7.5H4.5z"
+              fillRule="evenodd"
+            />
+          </svg>
+        </div>
+        <div
+          className="linke-div"
+        >
+          <p
+            className="crt"
+          >
+            SERBIA
+          </p>
+          <p
+            className="crt-sub"
+          >
+            AREA :
+             88361
+          </p>
+          <p
+            className="crt-sub"
+          >
+            POPULATION :
+             6908224
+          </p>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a
+        className="country  pair-red"
+        href="/details"
+        onClick={[Function]}
+      >
+        <div
+          className="flag-items"
+        >
+          <img
+            alt="Principality of Andorra"
+            className="flag"
+            src="https://flagcdn.com/w320/ad.png"
+          />
+          <svg
+            className="arrow"
+            fill="currentColor"
+            height="1.2em"
+            viewBox="0 0 16 16"
+            width="1.2em"
+          >
+            <path
+              d="M1 8a7 7 0 1014 0A7 7 0 001 8zm15 0A8 8 0 110 8a8 8 0 0116 0zM4.5 7.5a.5.5 0 000 1h5.793l-2.147 2.146a.5.5 0 00.708.708l3-3a.5.5 0 000-.708l-3-3a.5.5 0 10-.708.708L10.293 7.5H4.5z"
+              fillRule="evenodd"
+            />
+          </svg>
+        </div>
+        <div
+          className="linke-div"
+        >
+          <p
+            className="crt"
+          >
+            ANDORRA
+          </p>
+          <p
+            className="crt-sub"
+          >
+            AREA :
+             468
+          </p>
+          <p
+            className="crt-sub"
+          >
+            POPULATION :
+             77265
+          </p>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a
+        className="country"
+        href="/details"
+        onClick={[Function]}
+      >
+        <div
+          className="flag-items"
+        >
+          <img
+            alt="Turks and Caicos Islands"
+            className="flag"
+            src="https://flagcdn.com/w320/tc.png"
+          />
+          <svg
+            className="arrow"
+            fill="currentColor"
+            height="1.2em"
+            viewBox="0 0 16 16"
+            width="1.2em"
+          >
+            <path
+              d="M1 8a7 7 0 1014 0A7 7 0 001 8zm15 0A8 8 0 110 8a8 8 0 0116 0zM4.5 7.5a.5.5 0 000 1h5.793l-2.147 2.146a.5.5 0 00.708.708l3-3a.5.5 0 000-.708l-3-3a.5.5 0 10-.708.708L10.293 7.5H4.5z"
+              fillRule="evenodd"
+            />
+          </svg>
+        </div>
+        <div
+          className="linke-div"
+        >
+          <p
+            className="crt"
+          >
+            TURKS AND CAICOS ISLANDS
+          </p>
+          <p
+            className="crt-sub"
+          >
+            AREA :
+             948
+          </p>
+          <p
+            className="crt-sub"
+          >
+            POPULATION :
+             38718
+          </p>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a
+        className="country  pair-red"
+        href="/details"
+        onClick={[Function]}
+      >
+        <div
+          className="flag-items"
+        >
+          <img
+            alt="Bermuda"
+            className="flag"
+            src="https://flagcdn.com/w320/bm.png"
+          />
+          <svg
+            className="arrow"
+            fill="currentColor"
+            height="1.2em"
+            viewBox="0 0 16 16"
+            width="1.2em"
+          >
+            <path
+              d="M1 8a7 7 0 1014 0A7 7 0 001 8zm15 0A8 8 0 110 8a8 8 0 0116 0zM4.5 7.5a.5.5 0 000 1h5.793l-2.147 2.146a.5.5 0 00.708.708l3-3a.5.5 0 000-.708l-3-3a.5.5 0 10-.708.708L10.293 7.5H4.5z"
+              fillRule="evenodd"
+            />
+          </svg>
+        </div>
+        <div
+          className="linke-div"
+        >
+          <p
+            className="crt"
+          >
+            BERMUDA
+          </p>
+          <p
+            className="crt-sub"
+          >
+            AREA :
+             54
+          </p>
+          <p
+            className="crt-sub"
+          >
+            POPULATION :
+             63903
+          </p>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a
+        className="country"
+        href="/details"
+        onClick={[Function]}
+      >
+        <div
+          className="flag-items"
+        >
+          <img
+            alt="Antarctica"
+            className="flag"
+            src="https://flagcdn.com/w320/aq.png"
+          />
+          <svg
+            className="arrow"
+            fill="currentColor"
+            height="1.2em"
+            viewBox="0 0 16 16"
+            width="1.2em"
+          >
+            <path
+              d="M1 8a7 7 0 1014 0A7 7 0 001 8zm15 0A8 8 0 110 8a8 8 0 0116 0zM4.5 7.5a.5.5 0 000 1h5.793l-2.147 2.146a.5.5 0 00.708.708l3-3a.5.5 0 000-.708l-3-3a.5.5 0 10-.708.708L10.293 7.5H4.5z"
+              fillRule="evenodd"
+            />
+          </svg>
+        </div>
+        <div
+          className="linke-div"
+        >
+          <p
+            className="crt"
+          >
+            ANTARCTICA
+          </p>
+          <p
+            className="crt-sub"
+          >
+            AREA :
+             14000000
+          </p>
+          <p
+            className="crt-sub"
+          >
+            POPULATION :
+             1000
+          </p>
+        </div>
+      </a>
+    </li>
+  </ul>
+</div>
+`;
